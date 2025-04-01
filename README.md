@@ -1,7 +1,7 @@
 ## Oiii eu sou o Jorge Augusto, desenvolvedor mobile e criador de conteúdo de programação!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Quer saber mais **sobre mim?** deixarei um link abaixo contento todas as inforamaçoes,
+trabalhos, projetos e etc... seguindo esse [link](https://beacons.ai/iaejorge)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
