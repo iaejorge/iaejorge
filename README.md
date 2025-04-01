@@ -1,7 +1,7 @@
 ## Oiii eu sou o Jorge Augusto, desenvolvedor mobile e criador de conteúdo de programação!
 
 Quer saber mais **sobre mim?** deixarei um link abaixo contento todas as inforamaçoes,
-trabalhos, projetos e etc... seguindo esse [link](https://beacons.ai/iaejorge)
+trabalhos, projetos. seguindo esse [link, clique em mim po](https://beacons.ai/iaejorge)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jorge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
